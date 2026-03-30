@@ -55,20 +55,20 @@ export const COST_BREAKDOWN: CostData[] = [
 export const PRICING_TIERS: PricingTier[] = [
   {
     name: "Basic",
-    price: 399,
+    price: 239,
     description: "Essential tech solutions for individual professionals.",
     features: ["Custom Design", "Responsive Layout", "1 Revision", "SEO Baseline"]
   },
   {
     name: "Standard",
-    price: 449,
+    price: 289,
     description: "Added tools for growing startups and small teams.",
     isPopular: true,
     features: ["Custom Design", "Responsive Layout", "3 Revisions", "SEO Baseline"]
   },
   {
     name: "Premium",
-    price: 499,
+    price: 339,
     description: "Full suite of services with dedicated support.",
     features: ["Custom Design", "Responsive Layout", "5 Revisions", "SEO Baseline"]
   }
